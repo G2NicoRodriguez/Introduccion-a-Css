@@ -1,0 +1,30 @@
+h1{
+    color: red;
+}
+/* estoy practicando css y poner comentarios */
+p{
+    color: blue;
+    font-size: 50px;
+}
+
+#primera-noticia{
+    color: green;
+    font: 12pt;
+}
+
+#segunda-noticia{
+    color: blueviolet;
+}
+
+.encabezado{
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+
+.warning{
+    color: red;
+}
+
+.autor{
+    text-decoration: underline;
+}
